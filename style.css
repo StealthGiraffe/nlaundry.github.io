@@ -2,22 +2,27 @@ h1 {
     font-size: 64px;
     font-family: "Georgia";
     color: DarkBlue;
-    background-color: AliceBlue;
+    background-color: LightSteelBlue;
     border: 2px solid;
-    border-radius 10px 10px 10px 10px;
+    border-radius 20px 20px 20px 20px;
     text-align: center;
     box-shadow: 3px 3px 4px rgba(0, 0, 0, .5);
 }
 
+h2 {
+    font-size: 48px;
+    font-family: "Arial";
+    text-align: center;
+}
+
 body {
-    background-color: Azure;
+    background-color: AliceBlue;
 }
 
 img {
+    display: block;
     border: 2px solid;
     border-radius: 20px 20px 20px 20px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
