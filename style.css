@@ -1,0 +1,15 @@
+h1 {
+    font-size: 48px;
+    font-family: "Georgia";
+    color: Gray;
+    background-color: lightSkyBlue
+}
+
+body {
+    background-color: lightSteelBlue;
+}
+
+img {
+    border: 2px solid;
+    border-radius: 20px 20px 20px 20px;
+}
