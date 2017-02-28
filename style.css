@@ -1,18 +1,19 @@
 h1 {
-    font-size: 64px;
+    font-size: 72x;
     font-family: "Georgia";
-    color: DarkBlue;
-    background-color: LightSteelBlue;
-    border: 2px solid;
+    color: SlateGrey;
+    background-color: rgb(176,196,222. 0.5);
     border-radius 20px 20px 20px 20px;
     text-align: center;
-    box-shadow: 3px 3px 4px rgba(0, 0, 0, .5);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
 }
 
 h2 {
     font-size: 48px;
     font-family: "Arial";
     text-align: center;
+    color: SlateGrey;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
 body {
