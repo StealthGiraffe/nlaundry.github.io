@@ -1,7 +1,7 @@
 h1 {
     font-size: 72x;
     font-family: "Georgia";
-    color: DarkGrey;
+    color: rgb(0,0,0, 0.9);
     background-color: rgb(176,196,222. 0.5);
     text-align: center;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4);
@@ -11,7 +11,7 @@ h2 {
     font-size: 48px;
     font-family: "Arial";
     text-align: center;
-    color: DarkGrey;
+    color: rgb(0,0,0, 0.9);
     text-shadow: 7px 7px 5px rgba(0, 0, 0, 0.5);
 }
 
